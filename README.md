@@ -118,9 +118,3 @@ Feel free to open issues or submit pull requests to enhance this project!
 
 ---
 
-If you want, I can also help you:
-✨ write the `start_camera.sh` and `record_video.sh` scripts,
-✨ create a `.gitignore`,
-✨ and prepare a ready-to-upload folder structure.
-
-Just say: **"Yes, please!"** 🚀
