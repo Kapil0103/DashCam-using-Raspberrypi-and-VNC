@@ -20,7 +20,6 @@ It streams live video and lets you view and control the dashcam remotely over a 
 * Raspberry Pi Camera Module (or compatible USB webcam)
 * MicroSD card with Raspberry Pi OS
 * Power supply for Raspberry Pi
-* Optional: LCD display for local preview
 
 ---
 
@@ -29,7 +28,6 @@ It streams live video and lets you view and control the dashcam remotely over a 
 * Raspberry Pi OS (Lite or Desktop)
 * VNC Server (RealVNC, built into Raspberry Pi OS)
 * VNC Viewer (on your phone, tablet, or PC)
-* Optional: `fswebcam`, `raspivid`, or `motion` for recording & streaming
 
 ---
 
